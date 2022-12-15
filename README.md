@@ -20,7 +20,8 @@ installation of node.js and inquirer package needed
 
 ## Usage
 using node.js a series of questions will be asked to create a readme
-https://user-images.githubusercontent.com/112015433/207936848-2d3cb7b8-afc7-412b-a0bf-f9368d14f274.webm
+Watch the video to see how it is done:
+(https://user-images.githubusercontent.com/112015433/207936848-2d3cb7b8-afc7-412b-a0bf-f9368d14f274.webm)
 
 ## Contributors
 none
